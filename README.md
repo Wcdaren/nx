@@ -126,6 +126,11 @@ You are good to go!
       <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/advanced-nx-workspace-course.png" width="350"></p>
       </a>
     </td>
+    <td>
+      <a href="https://egghead.io/playlists/scale-react-development-with-nx-4038" target="_blank">
+      <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/playlists/square_covers/000/405/344/full/EGH_ScalingReactNx.png" width="350"></p>
+      </a>
+    </td>
   </tr>
 </table>
 
